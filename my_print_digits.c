@@ -10,7 +10,7 @@ void my_putchar(char c);
 int my_print_digits(void)
 {
     char chiffre;
-    chiffre = '1';
+    chiffre = '0';
     
     do
     {
